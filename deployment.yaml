@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: podinfo
-        image: stefanprodan/podinfo:6.6.6
+        image: stefanprodan/podinfo:6.4.0
         ports:
         - containerPort: 9898
